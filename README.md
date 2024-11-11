@@ -1,4 +1,4 @@
-# Swift MusicHive App for iOS 15, iPadOS 15, macOS 12.
+# Swift MusicHive App for iOS 18, iPadOS 18, macOS 14.
 
 <div class="row">
 <img src="https://user-images.githubusercontent.com/3157579/160372478-113ee5c7-b95d-4845-b334-fb93ecb46038.png" width="120" height="260">
